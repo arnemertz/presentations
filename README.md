@@ -18,4 +18,4 @@ I also transcribed the talk to a series of blog posts since there are now record
 
 ## Learning and Teaching Modern C++
 Some observations about what "Modern C++" might be, what challenges there are in teaching it and a comparison of the different sources we have for learning it. ([Slides](./LearningAndTeachingModernCpp/LearningAndTeachingModernCpp_4_3.pdf))  
-I held the talk at the [MeetingC++](meetingcpp.com) conference on November 18th in Berlin, Germany.
+I held the talk at the [MeetingC++](meetingcpp.com) conference on November 18th 2016 in Berlin, Germany.
