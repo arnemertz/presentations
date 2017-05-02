@@ -13,5 +13,9 @@ The talk was held on several occasions:
 I also transcribed the talk to a series of blog posts since there are now recordings:
 
 1. [Clean up Large C++ Legacy Applications](http://arne-mertz.de/2016/09/clean-large-c-legacy-applications/)
-2. Refactor Large C++ Legacy Applications
-3. ...
+2. [Large C++ Legacy Applications: Planned Refactoring](http://arne-mertz.de/2016/09/planned-refactoring-large-applications/)
+3. [Large Legacy Applications: Tests and Modularization](http://arne-mertz.de/2016/09/legacy-applications-tests-modularization/)
+
+## Learning and Teaching Modern C++
+Some observations about what "Modern C++" might be, what challenges there are in teaching it and a comparison of the different sources we have for learning it. ([Slides](./LearningAndTeachingModernCpp/LearningAndTeachingModernCpp_4_3.pdf))  
+I held the talk at the [MeetingC++](meetingcpp.com) conference on November 18th 2016 in Berlin, Germany.
