@@ -22,3 +22,19 @@ The talk was held on several occasions in slightly different versions:
 
 * At the [MeetingC++](meetingcpp.com) conference on November 18th 2016 in Berlin, Germany. [[video](https://www.youtube.com/watch?v=N5wOrhL4ew8)]
 * At the [ACCU 2017](https://conference.accu.org/site/) conference on April 28th 2017 in Bristol, UK. [[video](https://www.youtube.com/watch?v=dlh-UnmCARk)]
+
+## Code Reviews - Why, What, and How
+Collected best practices about how to do code reviews and what to review, as well as some background why code reviews are a useful tool.
+([Slides](./CodeReviews/CodeReviews.pdf))
+This material was held as:
+
+* a [presentation at Meeting C++ 2017](https://www.youtube.com/watch?v=t6L8b4tUmeE) November 11th 2017 in Berlin, Germany
+* an interactive session (not recorded) at [ACCU 2018](https://conference.accu.org/2018/accu2018.html) April 14th 2018 in Bristol, UK
+* a presentation at the  [C++ User Group](https://www.meetup.com/CppUserGroupHamburg/events/251501993/) June 19th 2018 in Hamburg, Germany
+
+## Pillars of Modern C++
+A talk about what makes the basis for a Modern C++ code style. ([Slides](./PillarsOfModernCpp/PillarsOfModernCpp.pdf))
+Held at:
+
+* Zühlke ZDays 2018 (internal conference) September 7th 2018 in Stuttgart, Germany
+
