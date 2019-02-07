@@ -7,8 +7,9 @@ The talk was held on several occasions:
 
 * At the [Advanced Developers C++ Conference](http://adcpp.de/2016/) April 26th 2016 in Erding, Germany
 * At the [Clean Code Days](http://www.cleancode-days.de/archive/handouts-2016.html) June 3rd 2016 in Munich, Germany
-* At the [C++ User Group](https://www.meetup.com/C-User-Group-Hannover/events/230809304/) July 11th in Hannover, Germany
-* At the [C++ User Group](https://www.meetup.com/CppUserGroupHamburg/events/232101627/) July 13th in Hamburg, Germany
+* At the [C++ User Group](https://www.meetup.com/C-User-Group-Hannover/events/230809304/) July 11th 2016 in Hannover, Germany
+* At the [C++ User Group](https://www.meetup.com/CppUserGroupHamburg/events/232101627/) July 13th 2016 in Hamburg, Germany
+* At the [MeetingC++](meetingcpp.com) conference on November 15th 2018 in Berlin, Germany
 
 I also transcribed the talk to a series of blog posts since there are no recordings:
 
@@ -17,11 +18,15 @@ I also transcribed the talk to a series of blog posts since there are no recordi
 3. [Large Legacy Applications: Tests and Modularization](http://arne-mertz.de/2016/09/legacy-applications-tests-modularization/)
 
 ## Learning and Teaching Modern C++
-Some observations about what "Modern C++" might be, what challenges there are in teaching it and a comparison of the different sources we have for learning it. ([Slides](./LearningAndTeachingModernCpp/LearningAndTeachingModernCpp_4_3.pdf))  
-The talk was held on several occasions in slightly different versions:
+Some observations about what "Modern C++" might be, what challenges there are in teaching it and a comparison of the different sources we have for learning it. The talk was held on several occasions in slightly different versions:
 
-* At the [MeetingC++](meetingcpp.com) conference on November 18th 2016 in Berlin, Germany. [[video](https://www.youtube.com/watch?v=N5wOrhL4ew8)]
-* At the [ACCU 2017](https://conference.accu.org/site/) conference on April 28th 2017 in Bristol, UK. [[video](https://www.youtube.com/watch?v=dlh-UnmCARk)]
+* At the [MeetingC++](meetingcpp.com) conference on November 18th 2016 in Berlin, Germany. ([video](https://www.youtube.com/watch?v=N5wOrhL4ew8))
+* At the [ACCU 2017](https://conference.accu.org/site/) conference on April 28th 2017 in Bristol, UK. ([video](https://www.youtube.com/watch?v=dlh-UnmCARk))
+* At the [C++ User Group](https://www.meetup.com/CppUserGroupHamburg/) January 16th 2019 in Hamburg, Germany
+* At the [C++ On Sea](cpponsea.uk) conference on February 5th 2019 in Folkestone, UK.
+
+([Slides 2016/17](./LearningAndTeachingModernCpp/LearningAndTeachingModernCpp_4_3.pdf))
+([Slides 2019](./LearningAndTeachingModernCpp/LearningAndTeachingModernCppOnSea.pdf))
 
 ## Code Reviews - Why, What, and How
 Collected best practices about how to do code reviews and what to review, as well as some background why code reviews are a useful tool.
