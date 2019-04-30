@@ -10,6 +10,7 @@ The talk was held on several occasions:
 * At the [C++ User Group](https://www.meetup.com/C-User-Group-Hannover/events/230809304/) July 11th 2016 in Hannover, Germany
 * At the [C++ User Group](https://www.meetup.com/CppUserGroupHamburg/events/232101627/) July 13th 2016 in Hamburg, Germany
 * At the [MeetingC++](meetingcpp.com) conference on November 15th 2018 in Berlin, Germany
+* At the [ACCU 2019](https://conference.accu.org/site/) conference on April 13th 2019 in Bristol, UK. ([video](https://www.youtube.com/watch?v=ibEm1wBre4I))
 
 I also transcribed the talk to a series of blog posts since there are no recordings:
 
