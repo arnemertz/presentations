@@ -1,5 +1,11 @@
 # Presentations
 
+## Phantastic Code Smells and Where to Find Them
+I talk about what code smells are and eight of the most common language agnostic and language specific code smells.
+Each smell is shown using examples from open source code bases. [Slides](./PhantasticCodeSmells/PhantasticCodeSmells.pdf)
+
+The talk was held at the [MeetingC++](meetingcpp.com) conference on November 15th 2019 in Berlin, Germany.
+
 ## Bringing Clean Code to Large Scale Legacy C++ Applications
 A talk about the experiences I gathered in several large and old enterprise C++ code bases. 
 ([Slides](./CleanCodeLegacyCpp/BringingCleanCodeToLargeScaleLegacyCppApplications.pdf))  
