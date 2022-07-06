@@ -1,10 +1,13 @@
 # Presentations
 
-## Phantastic Code Smells and Where to Find Them
-I talk about what code smells are and eight of the most common language agnostic and language specific code smells.
-Each smell is shown using examples from open source code bases. [Slides](./PhantasticCodeSmells/PhantasticCodeSmells.pdf)
+## Identifying Common Code Smells
+I talk about what code smells are and show eight of the most common language agnostic and C++ specific code smells, as well as how to fix them.
+Each smell is shown using examples from open source code bases. [Slides](./IdentifyingCommonCodeSmells/IdentifyingCommonCodeSmells.pdf)
 
-The talk was held at the [MeetingC++](meetingcpp.com) conference on November 15th 2019 in Berlin, Germany.
+The talk was held on several occasions:
+
+* At the [MeetingC++](meetingcpp.com) conference on November 15th 2019 in Berlin, Germany (different title, [video](https://www.youtube.com/watch?v=4Z3K8Xnw6WQ))
+* At the [C++ On Sea](cpponsea.uk) conference on July 6th 2022 in Folkestone, UK.
 
 ## Bringing Clean Code to Large Scale Legacy C++ Applications
 A talk about the experiences I gathered in several large and old enterprise C++ code bases. 
@@ -15,7 +18,7 @@ The talk was held on several occasions:
 * At the [Clean Code Days](http://www.cleancode-days.de/archive/handouts-2016.html) June 3rd 2016 in Munich, Germany
 * At the [C++ User Group](https://www.meetup.com/C-User-Group-Hannover/events/230809304/) July 11th 2016 in Hannover, Germany
 * At the [C++ User Group](https://www.meetup.com/CppUserGroupHamburg/events/232101627/) July 13th 2016 in Hamburg, Germany
-* At the [MeetingC++](meetingcpp.com) conference on November 15th 2018 in Berlin, Germany
+* At the [MeetingC++](meetingcpp.com) conference on November 15th 2018 in Berlin, Germany ([video](https://www.youtube.com/watch?v=kXjUl82GOCM))
 * At the [ACCU 2019](https://conference.accu.org/site/) conference on April 13th 2019 in Bristol, UK. ([video](https://www.youtube.com/watch?v=ibEm1wBre4I))
 
 I also transcribed the talk to a series of blog posts since there are no recordings:
@@ -30,7 +33,7 @@ Some observations about what "Modern C++" might be, what challenges there are in
 * At the [MeetingC++](meetingcpp.com) conference on November 18th 2016 in Berlin, Germany. ([video](https://www.youtube.com/watch?v=N5wOrhL4ew8))
 * At the [ACCU 2017](https://conference.accu.org/site/) conference on April 28th 2017 in Bristol, UK. ([video](https://www.youtube.com/watch?v=dlh-UnmCARk))
 * At the [C++ User Group](https://www.meetup.com/CppUserGroupHamburg/) January 16th 2019 in Hamburg, Germany
-* At the [C++ On Sea](cpponsea.uk) conference on February 5th 2019 in Folkestone, UK.
+* At the [C++ On Sea](cpponsea.uk) conference on February 5th 2019 in Folkestone, UK. ([video](https://www.youtube.com/watch?v=fKCwDg0vd18))
 
 ([Slides 2016/17](./LearningAndTeachingModernCpp/LearningAndTeachingModernCpp_4_3.pdf))
 ([Slides 2019](./LearningAndTeachingModernCpp/LearningAndTeachingModernCppOnSea.pdf))
