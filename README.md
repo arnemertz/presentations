@@ -7,7 +7,7 @@ This talk goes through the most common use cases for unit tests and deducts thos
 
 The talk was held:
 
-* At the [NDC TechTown](https://ndctechtown.com/) conference on August 31st in Kongsberg, Norway.
+* At the [NDC TechTown](https://ndctechtown.com/) conference on August 31st 2022 in Kongsberg, Norway.
 * At the [MeetingC++](https://meetingcpp.com) conference on November 19th 2022 in Berlin, Germany.
 
 ## Identifying Common Code Smells
@@ -18,7 +18,7 @@ The talk was held on several occasions:
 
 * At the [MeetingC++](https://meetingcpp.com) conference on November 15th 2019 in Berlin, Germany (different title, [video](https://www.youtube.com/watch?v=4Z3K8Xnw6WQ))
 * At the [C++ On Sea](https://cpponsea.uk) conference on July 6th 2022 in Folkestone, UK ([video](https://youtu.be/KFbrhXVb7pw))
-* At the [NDC TechTown](https://ndctechtown.com/) conference on September 1st in Kongsberg, Norway.
+* At the [NDC TechTown](https://ndctechtown.com/) conference on September 1st 2022 in Kongsberg, Norway.
 
 ## Bringing Clean Code to Large Scale Legacy C++ Applications
 A talk about the experiences I gathered in several large and old enterprise C++ code bases. 
