@@ -1,0 +1,5 @@
+# Core and other guidelines. The good, the bad, the... questionable?
+
+Books, blogs, and other sources usually contain useful guidelines and best practices towards writing better C++ and software in general. Often, they are versions or direct quotes of the C++ Core Guidelines, and quite often, these guidelines get retold countless times and are stripped of their rationale and reduced to single sentence rules that are blindly followed.
+
+In this talk, we explore a number of C++ Core Guidelines and other best practices and compare them to the form in which they have appeared in actual project style guides. We will compare the original intent to the effect of their application in those instances. In the end, we will draw conclusions how guidelines should be chosen and applied to projects to get the most benefit out of them without bogging the team down with needless bureaucracy.

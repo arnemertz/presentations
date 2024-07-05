@@ -1,12 +1,24 @@
 # Presentations
 
+## Core and other Guidelines
+From experience in multiple projects with different customer and team constellations, I present a choice of guidelines found in the wild. These lead to some observations about what we want in a useful set of guidelines.
+[Abstract](./CoreAndOtherGuidelines/abstract.md)
+[Slides](./CoreAndOtherGuidelines/CoreAndOtherGuidelines.pdf)
+
+This talk was held:
+
+* At the [C++ On Sea](https://cpponsea.uk) conference on July 5th 2024 in Folkestone, UK
+
+
 ## Properties of Unit Tests
 What are the desired properties of unit tests to make them most useful?
 This talk goes through the most common use cases for unit tests and deducts those desired properties from them.
+[Abstract](./PropertiesOfUnitTests/abstract.md)
 [Slides](./PropertiesOfUnitTests/PropertiesOfUnitTests.pdf)
 
 The talk was held:
 
+* At the [C++ On Sea](https://cpponsea.uk) conference on July 5th 2024 in Folkestone, UK
 * At the [NDC TechTown](https://ndctechtown.com/) conference on August 31st 2022 in Kongsberg, Norway.
 * At the [MeetingC++](https://meetingcpp.com) conference on November 19th 2022 in Berlin, Germany.
 
