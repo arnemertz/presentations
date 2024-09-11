@@ -7,6 +7,7 @@ From experience in multiple projects with different customer and team constellat
 
 This talk was held:
 
+* At the [NDC TechTown](https://ndctechtown.com/) conference on September 11th 2024 in Kongsberg, Norway
 * At the [C++ On Sea](https://cpponsea.uk) conference on July 5th 2024 in Folkestone, UK
 
 ## Properties of Unit Tests
@@ -18,8 +19,8 @@ This talk goes through the most common use cases for unit tests and deducts thos
 The talk was held:
 
 * At the [C++ On Sea](https://cpponsea.uk) conference on July 5th 2024 in Folkestone, UK
-* At the [NDC TechTown](https://ndctechtown.com/) conference on August 31st 2022 in Kongsberg, Norway.
-* At the [MeetingC++](https://meetingcpp.com) conference on November 19th 2022 in Berlin, Germany.
+* At the [NDC TechTown](https://ndctechtown.com/) conference on August 31st 2022 in Kongsberg, Norway
+* At the [MeetingC++](https://meetingcpp.com) conference on November 19th 2022 in Berlin, Germany
 
 ## Identifying Common Code Smells
 I talk about what code smells are and show eight of the most common language agnostic and C++ specific code smells, as well as how to fix them.
@@ -29,7 +30,7 @@ The talk was held on several occasions:
 
 * At the [MeetingC++](https://meetingcpp.com) conference on November 15th 2019 in Berlin, Germany (different title, [video](https://www.youtube.com/watch?v=4Z3K8Xnw6WQ))
 * At the [C++ On Sea](https://cpponsea.uk) conference on July 6th 2022 in Folkestone, UK ([video](https://youtu.be/KFbrhXVb7pw))
-* At the [NDC TechTown](https://ndctechtown.com/) conference on September 1st 2022 in Kongsberg, Norway.
+* At the [NDC TechTown](https://ndctechtown.com/) conference on September 1st 2022 in Kongsberg, Norway
 
 ## Code Reviews - Why, What, and How
 Collected best practices about how to do code reviews and what to review, as well as some background why code reviews are a useful tool.
