@@ -7,6 +7,7 @@ From experience in multiple projects with different customer and team constellat
 
 This talk was held:
 
+* At the [MeetingC++](https://meetingcpp.com) conference on November 16th 2024 in Berlin, Germany
 * At the [NDC TechTown](https://ndctechtown.com/) conference on September 11th 2024 in Kongsberg, Norway
 * At the [C++ On Sea](https://cpponsea.uk) conference on July 5th 2024 in Folkestone, UK
 
