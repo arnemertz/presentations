@@ -1,5 +1,14 @@
 # Presentations
 
+## Just Switch the Compiler, they said
+In past and present ptojects, there have been instances where the team wanted or had to switch to another compiler. This talk is a summary of necessary steps and experiences gathered on those occasions.
+[Abstract](./JustSwitchTheCompiler/abstract.md)
+[Slides](./JustSwitchTheCompiler/JustSwitchTheCompiler.pdf)
+
+This talk was held:
+
+* Ath the [NDC TechTown](https://ndctechtown.com/) conference on September 25th 2025 in Kongsberg, Norway
+
 ## Core and other Guidelines
 From experience in multiple projects with different customer and team constellations, I present a choice of guidelines found in the wild. These lead to some observations about what we want in a useful set of guidelines.
 [Abstract](./CoreAndOtherGuidelines/abstract.md)
